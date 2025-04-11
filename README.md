@@ -1,3 +1,7 @@
 # UK Data Portfolio
-Python/NumPy projects for small businesses.
-- **Cafe Sales Analysis**: Mean, median, std dev for sales. [Code](cafe_portfolio.py).
+
+Python/NumPy projects for small businesses in the UK.
+
+- **Cafe Sales Analysis**: Calculates mean, median, and standard deviation for cafe sales data.  
+  - [View Code](Cafe_Portfolio.py)  
+  - [View Output Screenshot](Screenshot_20250...)
